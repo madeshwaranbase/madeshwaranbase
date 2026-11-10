@@ -199,29 +199,37 @@ Sri Ramakrishna College of Arts & Science, Coimbatore
 
 ---
 
-## GitHub Statistics
+## GitHub Analytics
+
+### Profile Summary
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madeshwaranbase&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madeshwaranbase&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madeshwaranbase&theme=tokyonight" width="100%"/>
 </p>
 
-## Contribution Streak
+### Language Statistics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=madeshwaranbase&theme=tokyonight&hide_border=true&mode=weekly" width="75%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madeshwaranbase&theme=tokyonight" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=madeshwaranbase&theme=tokyonight" width="48%"/>
 </p>
 
-## Contribution Activity
+### Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madeshwaranbase&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+  <img src="https://streak-stats.demolab.com?user=madeshwaranbase&theme=tokyonight&hide_border=true" width="75%"/>
 </p>
 
-## Profile Visitors
+### Contribution Activity
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=madeshwaranbase&label=PROFILE+VIEWS&color=blueviolet&style=flat-square" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madeshwaranbase&theme=tokyo-night&hide_border=true" width="100%"/>
+</p>
+
+### Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=madeshwaranbase&label=PROFILE+VIEWS&color=blueviolet&style=flat-square"/>
 </p>
 
 ---
