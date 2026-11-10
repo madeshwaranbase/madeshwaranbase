@@ -1,31 +1,35 @@
 # Madeshwaran P
 
-### `SDET` · `Python Automation Engineer` · `Quality Engineering`
+**Software Development Engineer in Test (SDET)**
+
+Python Automation Engineer · Quality Engineering · API Testing
 
 <p>
-  <img src="https://img.shields.io/badge/Experience-3%2B_Years-2563EB?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Currently-Accenture-6D5DFB?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Focus-Test_Automation-0D9488?style=flat-square"/>
+  <img src="https://img.shields.io/badge/ACCENTURE-Quality_Engineering-6C63FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/EXPERIENCE-3%2B_Years-2563EB?style=flat-square"/>
 </p>
 
-Building reliable automation frameworks and smarter testing solutions.
+Building scalable automation frameworks, reliable testing solutions and intelligent QA workflows.
 
-**Core Expertise**
+**Specialization**
 
-`Python` `Selenium` `PyTest` `Playwright` `TypeScript` `API Testing` `CI/CD`
+Python · Selenium · PyTest · Playwright · TypeScript · REST API · CI/CD
 
 <p>
   <a href="https://github.com/madeshwaranbase">
-    <img src="https://img.shields.io/badge/GitHub-View_Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/madeshwaran-p/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:madeshwaranponnudurai@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
+---
+
+### ABOUT
 ---
 
 ### ABOUT
