@@ -1,13 +1,29 @@
 # Madeshwaran P
 
-**Software Development Engineer in Test (SDET)**
+### `SDET` · `Python Automation Engineer` · `Quality Engineering`
 
-Python Automation Engineer | Selenium | Playwright | API Testing
+<p>
+  <img src="https://img.shields.io/badge/Experience-3%2B_Years-2563EB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Currently-Accenture-6D5DFB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Focus-Test_Automation-0D9488?style=flat-square"/>
+</p>
 
-<p align="center">
-  <a href="https://github.com/madeshwaranbase">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/madeshwaran-p/">LinkedIn</a> ·
-  <a href="mailto:madeshwaranponnudurai@gmail.com">Email</a>
+Building reliable automation frameworks and smarter testing solutions.
+
+**Core Expertise**
+
+`Python` `Selenium` `PyTest` `Playwright` `TypeScript` `API Testing` `CI/CD`
+
+<p>
+  <a href="https://github.com/madeshwaranbase">
+    <img src="https://img.shields.io/badge/GitHub-View_Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/madeshwaran-p/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:madeshwaranponnudurai@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
