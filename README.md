@@ -1,32 +1,23 @@
- <div align="center">
+Madeshwaran P
 
-# Madeshwaran P
+SDET | Python Automation Engineer
 
-### SOFTWARE DEVELOPMENT ENGINEER IN TEST
+Quality Engineering · UI Automation · API Testing · CI/CD
 
-**Python Automation Engineer · SDET · Quality Engineering**
+Building scalable automation frameworks and intelligent testing solutions.
 
-Building reliable automation frameworks and intelligent testing solutions.
+<img src="https://img.shields.io/badge/3%2B_Years-Experience-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Accenture-Quality_Engineering-6C63FF?style=flat-square"/>
 
-<br/>
+TECHNOLOGY EXPERTISE
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/API_Testing-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,java,typescript,javascript,selenium,playwright,git,github,githubactions,jenkins&theme=dark" />
 
-<br/>
+CONNECT
 
-<a href="https://github.com/madeshwaranbase">GitHub</a> &nbsp;·&nbsp;
-<a href="https://www.linkedin.com/in/madeshwaran-p/">LinkedIn</a> &nbsp;·&nbsp;
-<a href="mailto:madeshwaranponnudurai@gmail.com">Email</a>
-
-<br/>
-
-<sub>3 Years in Quality Engineering · Currently at Accenture</sub>
-
-</div>
+<a href="https://www.linkedin.com/in/madeshwaran-p/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin"/></a>
+<a href="https://github.com/madeshwaranbase"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github"/></a>
+<a href="mailto:madeshwaranponnudurai@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail"/></a>
 
 ---
 
