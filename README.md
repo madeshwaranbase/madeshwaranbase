@@ -1,35 +1,33 @@
+ <div align="center">
+
 # Madeshwaran P
 
-**Software Development Engineer in Test (SDET)**
+### SOFTWARE DEVELOPMENT ENGINEER IN TEST
 
-Python Automation Engineer · Quality Engineering · API Testing
+**Python Automation Engineer · SDET · Quality Engineering**
 
-<p>
-  <img src="https://img.shields.io/badge/ACCENTURE-Quality_Engineering-6C63FF?style=flat-square"/>
-  <img src="https://img.shields.io/badge/EXPERIENCE-3%2B_Years-2563EB?style=flat-square"/>
-</p>
+Building reliable automation frameworks and intelligent testing solutions.
 
-Building scalable automation frameworks, reliable testing solutions and intelligent QA workflows.
+<br/>
 
-**Specialization**
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/API_Testing-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
 
-Python · Selenium · PyTest · Playwright · TypeScript · REST API · CI/CD
+<br/>
 
-<p>
-  <a href="https://github.com/madeshwaranbase">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/madeshwaran-p/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:madeshwaranponnudurai@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<a href="https://github.com/madeshwaranbase">GitHub</a> &nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/madeshwaran-p/">LinkedIn</a> &nbsp;·&nbsp;
+<a href="mailto:madeshwaranponnudurai@gmail.com">Email</a>
 
----
+<br/>
 
-### ABOUT
+<sub>3 Years in Quality Engineering · Currently at Accenture</sub>
+
+</div>
+
 ---
 
 ### ABOUT
