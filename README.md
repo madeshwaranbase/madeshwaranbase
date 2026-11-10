@@ -19,26 +19,35 @@ Passionate about automation architecture, CI/CD engineering and AI-powered testi
 **Languages**
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,typescript,javascript,sql" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 **Automation & Testing**
 
 <p>
-<img src="https://skillicons.dev/icons?i=selenium,playwright,postman" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
-**Tools & Technologies**
+**Tools & CI/CD**
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,vscode" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-A3745A?style=for-the-badge&logo=anthropic&logoColor=white"/>
 </p>
 
-**Frameworks:** PyTest · TestNG · pytest-bdd · Cucumber · POM · Gherkin
+**Frameworks:** POM · pytest-bdd · Cucumber · Gherkin · TestNG
 
-**API Testing:** Python Requests · Playwright APIRequestContext · REST API
-
-**AI Tools:** Claude · Amazon Kiro · AI-assisted test generation
+**API:** Python Requests · Playwright APIRequestContext · REST API Testing
 
 ---
 
@@ -99,17 +108,23 @@ Passionate about automation architecture, CI/CD engineering and AI-powered testi
 
 ### GITHUB ANALYTICS
 
+<table>
+<tr>
+<td width="50%" valign="top">
+<img src="https://github-stats-extended.vercel.app/api?username=madeshwaranbase&show_icons=true&theme=tokyonight&hide_border=true" width="100%"/>
+</td>
+<td width="50%" valign="top">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=madeshwaranbase&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="100%"/>
+</td>
+</tr>
+</table>
+
 <p align="center">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=madeshwaranbase&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=madeshwaranbase&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img src="https://streak-stats.demolab.com?user=madeshwaranbase&theme=tokyonight&hide_border=true" width="75%"/>
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=madeshwaranbase&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=madeshwaranbase&style=flat-square&color=6366f1&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=madeshwaranbase&style=flat-square&color=6366f1&label=PROFILE+VIEWS"/>
 </p>
 
 ---
