@@ -113,18 +113,18 @@ My primary focus is Python, Selenium, PyTest and Playwright with TypeScript. I a
 
 ---
 
-### GITHUB ACTIVITY
+### GITHUB ANALYTICS
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=madeshwaranbase&show_icons=true&theme=tokyonight&hide_border=true" width="85%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=madeshwaranbase&show_icons=true&theme=tokyonight&hide_border=true" width="400" />
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=madeshwaranbase&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="85%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=madeshwaranbase&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" width="400" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=madeshwaranbase&theme=tokyonight&hide_border=true" width="85%" />
+  <img src="https://streak-stats.demolab.com?user=madeshwaranbase&theme=tokyonight&hide_border=true" width="400" />
 </p>
 
 <p align="center">
