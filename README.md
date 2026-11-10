@@ -24,24 +24,29 @@ My primary focus is Python, Selenium, PyTest and Playwright with TypeScript. I a
 
 ### TECHNOLOGIES
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,typescript,javascript,selenium,playwright,git,github,githubactions,jenkins,postman,vscode&perline=6" />
+**Languages & Automation**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,typescript,javascript,selenium,playwright" />
 </p>
 
-<p align="center">
-  <b>Frameworks</b><br/>
-  PyTest · TestNG · pytest-bdd · Cucumber · POM · Gherkin
+**Tools & CI/CD**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,postman,vscode" />
 </p>
 
-<p align="center">
-  <b>Testing</b><br/>
-  UI Automation · API Testing · Regression · Functional · Cross-browser
-</p>
+**Frameworks**
 
-<p align="center">
-  <b>AI Tools</b><br/>
-  Claude · Amazon Kiro · AI-assisted Test Generation
-</p>
+PyTest · TestNG · pytest-bdd · Cucumber · POM · Gherkin
+
+**Testing**
+
+UI Automation · API Testing · Regression · Functional · Cross-browser
+
+**AI Tools**
+
+Claude · Amazon Kiro · AI-assisted Test Generation
 
 ---
 
