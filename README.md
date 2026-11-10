@@ -1,22 +1,31 @@
 # Madeshwaran P
 
-### SDET | Python Automation Engineer
+### SDET · Python Automation Engineer
 
-**Quality Engineering** · UI Automation · API Testing · CI/CD
+**Quality Engineering | UI Automation | API Testing | CI/CD**
 
 Building scalable automation frameworks and intelligent testing solutions.
 
-<img src="https://img.shields.io/badge/3%2B_Years-Experience-2563EB?style=flat-square"/>
-<img src="https://img.shields.io/badge/Accenture-Quality_Engineering-6C63FF?style=flat-square"/>
+<p>
+  <img src="https://img.shields.io/badge/3%2B_Years_Experience-2563EB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Accenture-Quality_Engineering-6C63FF?style=flat-square"/>
+</p>
 
-**Core Technologies**
+**TECHNOLOGY STACK**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+</p>
 
-[GitHub](https://github.com/madeshwaranbase) · [LinkedIn](https://www.linkedin.com/in/madeshwaran-p/) · [Email](mailto:madeshwaranponnudurai@gmail.com)
+<p>
+  <a href="https://github.com/madeshwaranbase"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/madeshwaran-p/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:madeshwaranponnudurai@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
