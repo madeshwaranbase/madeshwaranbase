@@ -1,42 +1,22 @@
-Madeshwaran P
+# Madeshwaran P
 
-SDET | Python Automation Engineer
+### SDET | Python Automation Engineer
 
-Quality Engineering · UI Automation · API Testing · CI/CD
+**Quality Engineering** · UI Automation · API Testing · CI/CD
 
 Building scalable automation frameworks and intelligent testing solutions.
 
 <img src="https://img.shields.io/badge/3%2B_Years-Experience-2563EB?style=flat-square"/>
 <img src="https://img.shields.io/badge/Accenture-Quality_Engineering-6C63FF?style=flat-square"/>
 
-### TECHNOLOGY EXPERTISE
+**Core Technologies**
 
-**Languages**
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-**Automation & Testing**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
-
-**Tools & CI/CD**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-</p>
+[GitHub](https://github.com/madeshwaranbase) · [LinkedIn](https://www.linkedin.com/in/madeshwaran-p/) · [Email](mailto:madeshwaranponnudurai@gmail.com)
 
 ---
 
