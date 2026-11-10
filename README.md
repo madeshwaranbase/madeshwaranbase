@@ -201,11 +201,28 @@ Sri Ramakrishna College of Arts & Science, Coimbatore
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madeshwaranbase&show_icons=true&theme=github_dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=madeshwaranbase&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madeshwaranbase&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madeshwaranbase&layout=compact&theme=github_dark&hide_border=true)
+## Contribution Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=madeshwaranbase&theme=github-dark-blue&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=madeshwaranbase&theme=tokyonight&hide_border=true&mode=weekly" width="75%"/>
+</p>
+
+## Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madeshwaranbase&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</p>
+
+## Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=madeshwaranbase&label=PROFILE+VIEWS&color=blueviolet&style=flat-square" />
+</p>
 
 ---
 
